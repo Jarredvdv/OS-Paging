@@ -1,12 +1,13 @@
 # Paging
 📄 Exploration of LRU, LIFO, &amp; Random memory replacement algorithms
 
-##Preparing to run##
-
+## Preparing to run ##
+```
 javac Paging.java
 java Paging [input set]
+```
 
-##Input Sets##
+## Input Sets ##
 1: 10 10 20 1 10 lru 0 
 2: 10 10 10 1 100 lru 0 
 3: 10 10 10 2 10 lru 0 
